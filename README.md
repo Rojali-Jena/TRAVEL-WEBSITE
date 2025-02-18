@@ -2,4 +2,4 @@
 
 # TRAVEL WEBSITE 
 
-Build a TRAVEL WEBSITE using HTML, CSS & JAVASCRIPT
+Build a travel website using HTML, CSS & JAVASCRIPT
